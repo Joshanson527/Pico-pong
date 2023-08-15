@@ -2,10 +2,10 @@
 A pong game for the Raspberry Pi Pico
 
 Materials:
-  Two Joystick modules that use potentiometers\n
-  An SH1106 128x64 I2C OLED display
-  A Raspberry Pi Pico (Wireless or not, it doesn't matter)
-  Dupont wires and breadboard
+Two Joystick modules that use potentiometers
+An SH1106 128x64 I2C OLED display
+A Raspberry Pi Pico (Wireless or not, it doesn't matter)
+Dupont wires and breadboard
 
 To make:
   Download both sh1106.py and main.py and oppen them in Thonny (or your micropython IDE)

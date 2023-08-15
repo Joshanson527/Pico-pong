@@ -9,7 +9,7 @@ Materials:
 
 To make:  
   Download both sh1106.py and main.py and oppen them in Thonny (or your micropython IDE)  
-  Save both the files to the Pico's memory  
+  Save both files to the Pico's memory  
   Connect the GND and +5v pins of the joysticks to ground and 3.3v (or 5v)  
   Connect the VRy pin of Player 1's joystick to GPIO 26 (pin 31)  
   Connect the VRy pin of Player 2's joystick to GPIO 27 (pin 32)  
